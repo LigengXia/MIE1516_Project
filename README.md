@@ -6,5 +6,5 @@ This work is inspired and built on the extension of:
   year = {2017},
   publisher = {GitHub},
   journal = {GitHub Repository},
-  howpublished = {\url{https://github.com/VPanjeta/Style-Transfer}},
+  howpublished = {https://github.com/VPanjeta/Style-Transfer},
 }
